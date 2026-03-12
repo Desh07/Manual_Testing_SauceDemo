@@ -1,4 +1,4 @@
-# 🧪 Manual Testing — SauceDemo E-commerce Application
+# 🧪 Manual Testing - SauceDemo E-commerce Application
 
 A complete manual testing project for the [SauceDemo](https://www.saucedemo.com) web application, covering functional testing, exploratory testing, and bug reporting.
 
