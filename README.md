@@ -31,10 +31,10 @@ The Excel test case document contains the following sheets:
 
 ## ✅ What Was Tested
 
-- **Login Module** — valid credentials, invalid credentials, empty fields, locked-out user
-- **Product Listing** — product display, sorting, images
-- **Shopping Cart** — add to cart, remove from cart, cart count
-- **Checkout Flow** — form fields, order summary, order completion
+- **Login Module** - valid credentials, invalid credentials, empty fields, locked-out user
+- **Product Listing** - product display, sorting, images
+- **Shopping Cart** - add to cart, remove from cart, cart count
+- **Checkout Flow** - form fields, order summary, order completion
 
 ---
 
@@ -54,9 +54,9 @@ Exploratory testing was performed using the `problem_user` persona on SauceDemo.
 
 ## 🧠 Techniques Applied
 
-- **Equivalence Partitioning** — login inputs grouped into valid, invalid, empty, and locked-out partitions for efficient test coverage
-- **Exploratory Testing** — unscripted testing using the `problem_user` persona to discover hidden defects
-- **Bug Reporting** — each defect documented with steps to reproduce, expected result, actual result, and severity
+- **Equivalence Partitioning** - login inputs grouped into valid, invalid, empty, and locked-out partitions for efficient test coverage
+- **Exploratory Testing** - unscripted testing using the `problem_user` persona to discover hidden defects
+- **Bug Reporting** - each defect documented with steps to reproduce, expected result, actual result, and severity
 
 ---
 
